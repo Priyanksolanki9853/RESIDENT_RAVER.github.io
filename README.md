@@ -10,8 +10,7 @@ A lightweight, browser-based recreation of the classic "Flappy Bird" game. This 
 
 ## 📸 Screenshots
 
-![Game Screenshot](https://via.placeholder.com/800x400?text=Replace+with+Game+Screenshot)
-*(Replace this line with an actual screenshot of your game running)*
+<img width="865" height="1034" alt="image" src="https://github.com/user-attachments/assets/d7e5ef6e-22c7-40ce-90e2-1722045471f1" />
 
 ---
 
