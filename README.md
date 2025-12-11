@@ -4,7 +4,7 @@
 
 A lightweight, browser-based recreation of the classic "Flappy Bird" game. This project demonstrates core game development concepts using **Vanilla JavaScript**, **HTML5 Canvas**, and **CSS3**, without relying on any external game engines or frameworks.
 
-> **[🔴 LIVE DEMO: Click here to play!] https://priyanksolanki9853.github.io/RESIDENT_RAVER.github.io/**
+> **[🔴 LIVE DEMO: Click here to play!] https://priyanksolanki9853.github.io/Flappy_Bird_Clone/**
 
 ---
 
